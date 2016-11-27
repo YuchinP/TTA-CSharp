@@ -1,0 +1,6 @@
+C:\C#Programs\Program1\Program1\bin\Debug\Program1.exe.config
+C:\C#Programs\Program1\Program1\bin\Debug\Program1.exe
+C:\C#Programs\Program1\Program1\bin\Debug\Program1.pdb
+C:\C#Programs\Program1\Program1\obj\Debug\Program1.csprojResolveAssemblyReference.cache
+C:\C#Programs\Program1\Program1\obj\Debug\Program1.exe
+C:\C#Programs\Program1\Program1\obj\Debug\Program1.pdb

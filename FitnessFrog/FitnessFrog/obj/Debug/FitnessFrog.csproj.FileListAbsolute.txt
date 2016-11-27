@@ -1,0 +1,6 @@
+C:\C#Programs\FitnessFrog\FitnessFrog\bin\Debug\FitnessFrog.exe.config
+C:\C#Programs\FitnessFrog\FitnessFrog\bin\Debug\FitnessFrog.exe
+C:\C#Programs\FitnessFrog\FitnessFrog\bin\Debug\FitnessFrog.pdb
+C:\C#Programs\FitnessFrog\FitnessFrog\obj\Debug\FitnessFrog.csprojResolveAssemblyReference.cache
+C:\C#Programs\FitnessFrog\FitnessFrog\obj\Debug\FitnessFrog.exe
+C:\C#Programs\FitnessFrog\FitnessFrog\obj\Debug\FitnessFrog.pdb

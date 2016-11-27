@@ -1,0 +1,2 @@
+C:\C#Programs\Program1.5\Program1.5\bin\Debug\Program1.5.exe.config
+C:\C#Programs\Program1.5\Program1.5\obj\Debug\Program1.5.csprojResolveAssemblyReference.cache
