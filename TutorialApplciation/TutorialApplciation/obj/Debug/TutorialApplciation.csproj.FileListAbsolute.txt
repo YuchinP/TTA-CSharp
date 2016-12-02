@@ -1,0 +1,6 @@
+C:\C#Programs\TTA-CSharp\TutorialApplciation\TutorialApplciation\bin\Debug\TutorialApplciation.exe.config
+C:\C#Programs\TTA-CSharp\TutorialApplciation\TutorialApplciation\bin\Debug\TutorialApplciation.exe
+C:\C#Programs\TTA-CSharp\TutorialApplciation\TutorialApplciation\bin\Debug\TutorialApplciation.pdb
+C:\C#Programs\TTA-CSharp\TutorialApplciation\TutorialApplciation\obj\Debug\TutorialApplciation.csprojResolveAssemblyReference.cache
+C:\C#Programs\TTA-CSharp\TutorialApplciation\TutorialApplciation\obj\Debug\TutorialApplciation.exe
+C:\C#Programs\TTA-CSharp\TutorialApplciation\TutorialApplciation\obj\Debug\TutorialApplciation.pdb

@@ -1,0 +1,6 @@
+C:\C#Programs\TTA-CSharp\Hello\Hello\bin\Debug\Hello.exe.config
+C:\C#Programs\TTA-CSharp\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+C:\C#Programs\TTA-CSharp\Hello\Hello\bin\Debug\Hello.exe
+C:\C#Programs\TTA-CSharp\Hello\Hello\bin\Debug\Hello.pdb
+C:\C#Programs\TTA-CSharp\Hello\Hello\obj\Debug\Hello.exe
+C:\C#Programs\TTA-CSharp\Hello\Hello\obj\Debug\Hello.pdb

@@ -1,0 +1,5 @@
+C:\C#Programs\TTA-CSharp\TutorialApplciation2\TutorialApplciation2\bin\Debug\TutorialApplciation2.exe.config
+C:\C#Programs\TTA-CSharp\TutorialApplciation2\TutorialApplciation2\bin\Debug\TutorialApplciation2.exe
+C:\C#Programs\TTA-CSharp\TutorialApplciation2\TutorialApplciation2\bin\Debug\TutorialApplciation2.pdb
+C:\C#Programs\TTA-CSharp\TutorialApplciation2\TutorialApplciation2\obj\Debug\TutorialApplciation2.exe
+C:\C#Programs\TTA-CSharp\TutorialApplciation2\TutorialApplciation2\obj\Debug\TutorialApplciation2.pdb
