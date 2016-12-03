@@ -1,0 +1,8 @@
+C:\C#Programs\TTA-CSharp\Grades\Grades\bin\Debug\Grades.exe.config
+C:\C#Programs\TTA-CSharp\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\C#Programs\TTA-CSharp\Grades\Grades\bin\Debug\Grades.exe
+C:\C#Programs\TTA-CSharp\Grades\Grades\bin\Debug\Grades.pdb
+C:\C#Programs\TTA-CSharp\Grades\Grades\obj\Debug\Grades.exe
+C:\C#Programs\TTA-CSharp\Grades\Grades\obj\Debug\Grades.pdb
+C:\C#Programs\TTA-CSharp\Grades\Grades\bin\Debug\Grades.exe.CodeAnalysisLog.xml
+C:\C#Programs\TTA-CSharp\Grades\Grades\bin\Debug\Grades.exe.lastcodeanalysissucceeded
