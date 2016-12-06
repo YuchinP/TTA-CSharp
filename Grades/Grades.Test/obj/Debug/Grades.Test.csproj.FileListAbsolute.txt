@@ -4,3 +4,5 @@ C:\C#Programs\TTA-CSharp\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.Qua
 C:\C#Programs\TTA-CSharp\Grades\Grades.Test\obj\Debug\Grades.Test.csprojResolveAssemblyReference.cache
 C:\C#Programs\TTA-CSharp\Grades\Grades.Test\obj\Debug\Grades.Test.dll
 C:\C#Programs\TTA-CSharp\Grades\Grades.Test\obj\Debug\Grades.Test.pdb
+C:\C#Programs\TTA-CSharp\Grades\Grades.Test\bin\Debug\Grades.exe
+C:\C#Programs\TTA-CSharp\Grades\Grades.Test\bin\Debug\Grades.pdb
