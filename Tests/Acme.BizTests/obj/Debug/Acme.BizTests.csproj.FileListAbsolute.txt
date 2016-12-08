@@ -1,0 +1,10 @@
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.dll
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.pdb
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Biz.dll
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Common.dll
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Biz.pdb
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Common.pdb
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.dll
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.pdb
