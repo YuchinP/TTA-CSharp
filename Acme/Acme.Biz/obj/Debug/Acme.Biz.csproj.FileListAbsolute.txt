@@ -1,0 +1,7 @@
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.dll
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.pdb
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.dll
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.pdb
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.dll
+C:\Users\Student\Downloads\3-csharp-best-practices-improving-basics-m3-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.pdb
