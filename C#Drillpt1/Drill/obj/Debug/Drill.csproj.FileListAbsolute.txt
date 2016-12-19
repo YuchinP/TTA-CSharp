@@ -1,0 +1,6 @@
+C:\C#Programs\TTA-CSharp\Drill\Drill\bin\Debug\Drill.exe.config
+C:\C#Programs\TTA-CSharp\Drill\Drill\bin\Debug\Drill.exe
+C:\C#Programs\TTA-CSharp\Drill\Drill\bin\Debug\Drill.pdb
+C:\C#Programs\TTA-CSharp\Drill\Drill\obj\Debug\Drill.csprojResolveAssemblyReference.cache
+C:\C#Programs\TTA-CSharp\Drill\Drill\obj\Debug\Drill.exe
+C:\C#Programs\TTA-CSharp\Drill\Drill\obj\Debug\Drill.pdb

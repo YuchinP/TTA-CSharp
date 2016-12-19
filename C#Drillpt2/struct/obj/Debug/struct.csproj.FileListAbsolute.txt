@@ -1,0 +1,6 @@
+C:\C#Programs\TTA-CSharp\ConsoleApplication1\struct\bin\Debug\@struct.exe.config
+C:\C#Programs\TTA-CSharp\ConsoleApplication1\struct\bin\Debug\@struct.exe
+C:\C#Programs\TTA-CSharp\ConsoleApplication1\struct\bin\Debug\@struct.pdb
+C:\C#Programs\TTA-CSharp\ConsoleApplication1\struct\obj\Debug\struct.csprojResolveAssemblyReference.cache
+C:\C#Programs\TTA-CSharp\ConsoleApplication1\struct\obj\Debug\@struct.exe
+C:\C#Programs\TTA-CSharp\ConsoleApplication1\struct\obj\Debug\@struct.pdb
