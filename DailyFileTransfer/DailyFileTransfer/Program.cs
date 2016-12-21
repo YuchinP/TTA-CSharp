@@ -17,7 +17,6 @@ namespace DailyFileTransfer
         {
             if (Directory.Exists(path))
             {
-                DateTime dd = DateTime.Now.AddHours(-24);
                 ProcessDirectory(path);
             }
         }
@@ -26,11 +25,15 @@ namespace DailyFileTransfer
         {
             string[] files = Directory.GetFiles(path);
             foreach (string fileName in files)
+            {              
                 ProcessFile(fileName);
+            }
         }
 
         public static void ProcessFile(string fileName)
         {
+            DateTime now = DateTime.Now;
+            DateTime dd = now.Subtract(new TimeSpan(1, 0, 0, 0));
             DateTime dt = File.GetLastAccessTime(fileName);
             if (dt > dd)
             {
