@@ -1,0 +1,6 @@
+C:\C#Programs\TTA-CSharp\DailyFileTransfer\DailyFileTransfer\bin\Debug\DailyFileTransfer.exe.config
+C:\C#Programs\TTA-CSharp\DailyFileTransfer\DailyFileTransfer\bin\Debug\DailyFileTransfer.exe
+C:\C#Programs\TTA-CSharp\DailyFileTransfer\DailyFileTransfer\bin\Debug\DailyFileTransfer.pdb
+C:\C#Programs\TTA-CSharp\DailyFileTransfer\DailyFileTransfer\obj\Debug\DailyFileTransfer.csprojResolveAssemblyReference.cache
+C:\C#Programs\TTA-CSharp\DailyFileTransfer\DailyFileTransfer\obj\Debug\DailyFileTransfer.exe
+C:\C#Programs\TTA-CSharp\DailyFileTransfer\DailyFileTransfer\obj\Debug\DailyFileTransfer.pdb
