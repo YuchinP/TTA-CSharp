@@ -34,7 +34,7 @@ namespace DailyFileTransfer
         {
             DateTime now = DateTime.Now;
             DateTime dd = now.Subtract(new TimeSpan(1, 0, 0, 0));
-            DateTime dt = File.GetLastAccessTime(fileName);
+            DateTime dt = File.GetLastWriteTime(fileName);
             if (dt > dd)
             {
                 var fileInfo = new FileInfo(fileName);
